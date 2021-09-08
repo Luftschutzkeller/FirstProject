@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">First Project</string>
+    <string name="intro_to_android_dev">Intro to Android DEV</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="button">Button</string>
+    <string name="send">SEND</string>
+</resources>
